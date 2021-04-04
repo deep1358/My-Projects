@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap");
+
+.project {
+  min-width: 90%;
+  display: flex;
+  min-height: 35vh;
+  flex-direction: column;
+}
+
+.image {
+  width: 100%;
+  transition: all 0.5s ease;
+  flex: 1;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.caption {
+  background-color: #d65a31;
+  display: flex;
+  justify-content: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.web_name {
+  font-family: "Lobster Two", cursive;
+  font-size: 2rem;
+  color: #222831;
+}

@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap");
+
+.header {
+  width: 100%;
+  color: #eeeeee;
+  font-family: "Lobster Two", cursive;
+}
+.header > h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+@media (max-width: 400px) {
+  .header > h1 {
+    font-size: 2rem;
+  }
+}
