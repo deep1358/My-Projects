@@ -9,6 +9,7 @@
   grid-row-gap: 3vh;
   grid-column-gap: 2vw;
   cursor: pointer;
+  margin-bottom: 5vh;
 }
 @media (max-width: 1000px) {
   .projects {

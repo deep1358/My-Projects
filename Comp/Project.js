@@ -27,7 +27,7 @@ const Project = ({src,name,link}) => {
                     whileTap={{ scale: 0.9 }}
                     className={styles.project}
                 >
-                    <img className={styles.image} src={src} />
+                    <img className={styles.image} src={src} alt={name} />
                     <div className={styles.caption}>
                         <h5 className={styles.web_name}>{name}</h5>
                     </div>
