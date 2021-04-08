@@ -11,6 +11,7 @@ const Projects = () => {
             <Project src="D3-Cycling.jpg" name="D3 Project-2" link="https://d3-project-2-b83f6.web.app"/>
             <Project src="D3-Tree.jpg" name="D3 Project-3" link="https://d3-project-3.web.app"/>
             <Project src="Blog.jpg" name="Blog-NextJs" link="https://blog-next-js-steel.vercel.app/"/>
+            <Project src="content-manager.jpg" name="Content-Manager-NextJs" link="https://content-manager-app-prod-kappa.vercel.app/"/>
         </div>
     )
 }
