@@ -59,6 +59,11 @@ const Projects = () => {
         name="Portfolio-NextJs"
         link="https://portfolio-frontend-app.vercel.app/"
       />
+      <Project
+        src="gaming_vibes.jpg"
+        name="GamingVibes-NextJs"
+        link="https://gamingvibess.netlify.app/"
+      />
     </div>
   );
 };
