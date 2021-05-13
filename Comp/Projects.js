@@ -61,7 +61,7 @@ const Projects = () => {
       />
       <Project
         src="gaming_vibes.jpg"
-        name="GamingVibes-NextJs"
+        name="Ecommerce-NextJs"
         link="https://gamingvibess.netlify.app/"
       />
       <Project
