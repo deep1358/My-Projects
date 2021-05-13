@@ -61,12 +61,12 @@ const Projects = () => {
       />
       <Project
         src="gaming_vibes.jpg"
-        name="Ecommerce-NextJs"
+        name="GamingVibes-NextJs"
         link="https://gamingvibess.netlify.app/"
       />
       <Project
         src="ecommerce-nextjs.jpg"
-        name="GamingVibes-NextJs"
+        name="Ecommerce-NextJs"
         link="https://ecommerce-nextjs-henna.vercel.app/"
       />
     </div>
