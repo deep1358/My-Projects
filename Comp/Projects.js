@@ -69,6 +69,11 @@ const Projects = () => {
         name="Ecommerce-NextJs"
         link="https://ecommerce-nextjs-henna.vercel.app/"
       />
+      <Project
+        src="minimal-social-media.jpg"
+        name="Social-Media-NextJs"
+        link="https://minimal-social-media.vercel.app/"
+      />
     </div>
   );
 };
