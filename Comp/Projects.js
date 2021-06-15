@@ -56,7 +56,7 @@ const Projects = () => {
       />
       <Project
         src="portfolio.jpg"
-        name="Portfolio-NextJs"
+        name="Dummy-Portfolio-NextJs"
         link="https://portfolio-frontend-app.vercel.app/"
       />
       <Project
@@ -73,6 +73,11 @@ const Projects = () => {
         src="minimal-social-media.jpg"
         name="Social-Media-NextJs"
         link="https://minimal-social-media.vercel.app/"
+      />
+      <Project
+        src="deep.jpg"
+        name="Personal Portfolio"
+        link="https://deepshah.netlify.app/"
       />
     </div>
   );
